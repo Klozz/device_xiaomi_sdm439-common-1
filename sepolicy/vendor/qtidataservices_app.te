@@ -1,0 +1,5 @@
+
+# XPE 21
+type qtidataservices_app, domain;
+app_domain(qtidataservices_app);
+
