@@ -1,1 +1,5 @@
+
+# XPE 15
+type qti_init_shell, domain;
+
 allow qti_init_shell sysfs_net:file rw_file_perms;
