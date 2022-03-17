@@ -1,0 +1,4 @@
+
+# XPE 17
+type hal_datafactory_hwservice, hwservice_manager_type;
+
