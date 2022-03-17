@@ -1,2 +1,6 @@
 # Dirac
 type dirac_prop, property_type;
+
+# XPE 19
+vendor_internal_prop(vendor_qcom_ims_prop);
+
