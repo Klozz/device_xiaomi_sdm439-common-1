@@ -1,4 +1,4 @@
 
 # XPE 14
 attribute hal_alarm_qti_server;
-
+attribute hal_alarm_qti;
