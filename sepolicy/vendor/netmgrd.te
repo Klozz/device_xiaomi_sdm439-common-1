@@ -1,1 +1,6 @@
+
+# XPE 10
+type netmgrd, domain;
+type netmgrd_exec, exec_type, file_type;
+
 set_prop(netmgrd, vendor_xlat_prop)
