@@ -10,3 +10,9 @@ type vendor_hvdcp_opti_prop, property_type;
 # XPE 3
 type exported2_default_prop, property_type;
 
+# XPE 4
+type exported3_radio_prop, property_type;
+
+# XPE 5
+type exported_radio_prop, property_type;
+
