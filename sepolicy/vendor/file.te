@@ -22,6 +22,4 @@ type rild_file, file_type, vendor_file_type;
 # Rmt
 type debugfs_rmt, debugfs_type, fs_type;
 
-# XPE 1
-type sysfs_battery_supply, fs_type, sysfs_type;
 
