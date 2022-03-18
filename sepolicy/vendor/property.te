@@ -16,3 +16,6 @@ type exported3_radio_prop, property_type;
 # XPE 5
 type exported_radio_prop, property_type;
 
+# XPE 6
+type ffs_prop, property_type, core_property_type;
+
