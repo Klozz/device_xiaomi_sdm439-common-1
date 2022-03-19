@@ -173,6 +173,8 @@ ENABLE_VENDOR_RIL_SERVICE := true
 
 # SELinux
 include device/qcom/sepolicy-legacy-um/SEPolicy.mk
+BOARD_SEPOLICY_M4DEFS += \
+     sysfs_battery_supply=vendor_sysfs_battery_supply
 SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += $(COMMON_PATH)/sepolicy/private
 BOARD_VENDOR_SEPOLICY_DIRS += $(COMMON_PATH)/sepolicy/vendor
 
